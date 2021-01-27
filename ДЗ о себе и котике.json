@@ -1,0 +1,18 @@
+{"Marina" : {
+    "sex"  : "female",
+    "last_name"  : "Veremchuk",
+    "location"  : "Minsk",
+    "age" : "21",
+    "birth_date" : "16.10.1999",
+    "eye_color"  : "brown"
+  },
+"Lola" : {
+    "sex"  : "male",
+    "fur_color"  : "grey",
+    "eye_color"  : "green",
+    "location"  : "Kobrin",
+    "age" : "3",
+    "birth_date" : "04.08.2017"
+  },
+
+}
